@@ -5,13 +5,13 @@
 #-------------------------------------------------------
 
 # This is the name given to your device or mobile app in the Amazon developer portal. To look this up, navigate to https://developer.amazon.com/edw/home.html. It may be labeled Device Type ID.
-ProductID=YOUR_PRODUCT_ID_HERE
+ProductID=JarvisPi
 
 # Retrieve your client ID from the web settings tab within the developer console: https://developer.amazon.com/edw/home.html
-ClientID=YOUR_CLIENT_ID_HERE
+ClientID=amzn1.application-oa2-client.e83b7c5adf3e432e9fbd47b75c5c59f1
 
 # Retrieve your client secret from the web settings tab within the developer console: https://developer.amazon.com/edw/home.html
-ClientSecret=YOUR_CLIENT_SECRET_HERE
+ClientSecret=76b910f8eb762578313286beb53968a902e2eed7a51e2dcebca5ab0af25085cd
 
 #-------------------------------------------------------
 # No need to change anything below this...
